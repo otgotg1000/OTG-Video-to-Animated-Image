@@ -50,3 +50,8 @@ This repository includes `.github/workflows/deploy-pages.yml` for automatic depl
 2. In your repository on GitHub, open **Settings → Pages**.
 3. Under **Build and deployment → Source**, select **GitHub Actions**.
 4. Every push to `main` (or manual workflow dispatch) builds `dist/` with the repository's base path and publishes directly to GitHub Pages.
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** — see the [GNU GPL v3.0 license text](https://www.gnu.org/licenses/gpl-3.0.html) for details.
+
